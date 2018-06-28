@@ -1,0 +1,9 @@
+# ignore all the files in the _build/ directory
+_build/
+
+# ignore file .DS_Store
+.DS_Store
+
+#ignore some files in doc/hardware/ directory
+doc/~*
+
